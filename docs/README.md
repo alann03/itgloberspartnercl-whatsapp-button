@@ -47,3 +47,7 @@ Agregue el bloque `whatsapp-button` donde requiera utilizarlo dentro de su aplic
 Para aplicar personalizaciones de CSS en este y otros bloques, siga la guía [Uso de identificadores de CSS para la personalización de la tienda](https://developers.vtex.com/docs/guides/vtex-io-documentation-using-css-handles-for-store-customization).
 
 `Aún no hay identificadores CSS disponibles para la personalización de la aplicación.`
+
+## Colaboradores
+
+- **Alan Agustín Huismann**
